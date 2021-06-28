@@ -46,6 +46,5 @@
             <input type="hidden" value="<?php echo $_POST['age'];?>"name="age">
             <input type="hidden" value="<?php echo $_POST['comments'];?>"name="comments">
         </form>
-
     </div>
 </body>
